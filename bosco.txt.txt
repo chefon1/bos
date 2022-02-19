@@ -1,0 +1,2 @@
+This is the first class in DEVOPS
+We currently have the second class ongoing
